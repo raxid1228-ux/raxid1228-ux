@@ -46,7 +46,7 @@
   <!-- Left Side Text (English) -->
   <g transform="translate(60, 130)">
     <text x="0" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="1">
-      👋 HELLO WORLD, I'M
+      👋 HELLO, I'M
     </text>
     <text x="0" y="55" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="38" font-weight="800">
       Software Developer Raxid
