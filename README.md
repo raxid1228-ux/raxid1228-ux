@@ -1,51 +1,52 @@
 <div align="center">
 
-  <!-- ھەرىكەتچان نۇرلۇق خەرىتە باش بېتى -->
-  <img src="./header.svg" width="100%" alt="پىروفىل باش بېتى" />
+  <!-- Animated Header with Glow Map -->
+  <img src="./header.svg" width="100%" alt="Profile Header" />
 
   <br />
 
-  <!-- زىيارەتچى سانى ۋە ھالەت بەلگىلىرى -->
+  <!-- Dynamic Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&label=زىيارەتچىلەر&color=0ea5e9&style=for-the-badge" alt="زىيارەتچىلەر" />
-    <img src="https://img.shields.io/github/followers/USERNAME?label=ئەگەشكۈچىلەر&color=2563eb&style=for-the-badge&logo=github" alt="ئەگەشكۈچىلەر" />
-    <img src="https://img.shields.io/badge/ھالىتى-كود_ئۆگىنىۋاتىدۇ-10b981?style=for-the-badge" alt="ھالىتى" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&color=2563eb&style=for-the-badge&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/Status-Actively%20Coding-10b981?style=for-the-badge" alt="Status" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 مەن ھەققىدە
+### 👨‍💻 About Me
 
-* 🌱 مەن يۇمشاق دېتال ئېچىش ۋە كود يېزىش دۇنياسىغا يېڭىدىن قەدەم قويدۇم.
-* 💻 ھازىر زامانىۋى تور تېخنىكىلىرى ۋە پىروگرامما تىللىرىنى سىستېمىلىق ئۆگىنىۋاتىمەن.
-* 🎯 نىشانىم: كەسپىي، پاكىز ۋە يۇقىرى ئۈنۈملۈك كود يازالايدىغان تايانچ كۈچكە ئايلىنىش.
-* 🤝 ھەر قانداق ئوچۇق مەنبەلىك (Open Source) تۈرلەردە ھەمكارلىشىشقا ۋە پىكىر ئالماشتۇرۇشقا تەييارمەن.
+- 🚀 I just kicked off my journey into software engineering and development today!
+- 📚 Currently diving deep into modern web development and core programming languages.
+- 💡 Passionate about writing clean, maintainable code and solving real-world problems.
+- 🎯 Goal: Grow into a full-stack developer and build impactful applications.
+- 🤝 Open to collaboration on beginner-friendly open-source projects.
 
 ---
 
-### 🛠️ مەن ئۆگىنىۋاتقان ۋە ئىشلىتىدىغان قوراللار
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" alt="تېخنىكا ۋە قوراللار" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
 
-### 📊 گىتخاپ ستاتىستىكىسى ۋە پائالىيەتلىرىم
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f1d" alt="گىتخاپ ستاتىستىكىسى" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0a0f1d" alt="كۆپ ئىشلەتكەن تىللار" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f1d" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0a0f1d" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0a0f1d" alt="ئۈزلۈكسىز كود يېزىش خاتىرىسى" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" width="100%" alt="ئاستى بېزەك" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
