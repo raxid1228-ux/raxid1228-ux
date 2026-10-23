@@ -115,12 +115,12 @@
 
     <!-- Greeting -->
     <text x="0" y="75" fill="#38bdf8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="2">
-      ⚡ HELLO WORLD, I AM A
+      ⚡ HELLO WORLD, I AM
     </text>
 
     <!-- Main Title -->
     <text x="0" y="128" fill="url(#titleGrad)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
-      Software Developer
+      Software Developer Raxid
     </text>
 
     <!-- Subtitle -->
