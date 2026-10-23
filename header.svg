@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="100%" height="100%">
   <defs>
-    <!-- تەگلىك رەڭ ئۆزگىرىشى -->
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a0f1d" />
       <stop offset="50%" stop-color="#0d1b2a" />
       <stop offset="100%" stop-color="#0a0f1d" />
     </linearGradient>
 
-    <!-- خەرىتە ئىچىدىكى كۆك رەڭ -->
+    <!-- Map Color Gradient -->
     <linearGradient id="mapFill" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#58b4ff" />
       <stop offset="100%" stop-color="#2b8fff" />
     </linearGradient>
 
-    <!-- نۇر چاقناش ئېففېكتى (Glow Filter) -->
+    <!-- Glowing Light Filter -->
     <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="6" result="blur1" />
       <feGaussianBlur stdDeviation="14" result="blur2" />
@@ -24,15 +24,15 @@
       </feMerge>
     </filter>
 
-    <!-- خەرىتە سىزمىسىنىڭ يولى -->
+    <!-- Map Contour Vector Path -->
     <path id="mapPath" d="M607,108 L615,112 L615,128 L626,138 L628,152 L668,178 L696,185 L720,212 L726,232 L740,250 L740,305 L746,336 L815,344 L868,372 L910,386 L936,405 L940,445 L952,466 L950,480 L936,495 L932,540 L890,560 L812,578 L818,620 L828,666 L745,682 L704,704 L732,725 L744,756 L750,772 L735,780 L756,804 L730,810 L695,818 L675,810 L642,804 L595,808 L550,825 L515,845 L495,848 L460,842 L440,848 L412,828 L382,842 L358,862 L322,865 L285,882 L265,892 L240,880 L230,842 L195,825 L165,820 L145,795 L150,772 L125,762 L100,765 L85,745 L105,725 L95,695 L75,680 L55,685 L55,665 L48,650 L60,628 L80,608 L100,595 L125,600 L145,578 L205,560 L245,535 L280,520 L318,490 L330,455 L342,435 L330,405 L322,375 L302,360 L318,345 L335,342 L395,345 L398,315 L415,275 L430,232 L448,238 L495,250 L530,250 L526,208 L532,165 L565,148 L575,118 Z" />
   </defs>
 
-  <!-- تەگلىك رامكىسى -->
+  <!-- Background Base -->
   <rect width="1000" height="420" rx="18" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
 
-  <!-- بېزەك چىۋىق سىزىقلىرى -->
-  <g stroke="#1e293b" stroke-width="1" opacity="0.4">
+  <!-- Modern Grid Backdrop Lines -->
+  <g stroke="#1e293b" stroke-width="1" opacity="0.35">
     <line x1="0" y1="80" x2="1000" y2="80" />
     <line x1="0" y1="160" x2="1000" y2="160" />
     <line x1="0" y1="240" x2="1000" y2="240" />
@@ -43,38 +43,38 @@
     <line x1="800" y1="0" x2="800" y2="420" />
   </g>
 
-  <!-- سول تەرەپتىكى تېكىست قىسمى -->
+  <!-- Left Side Text (English) -->
   <g transform="translate(60, 130)">
-    <text x="0" y="0" fill="#38bdf8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="600">
-      👋 ئەسسالامۇئەلەيكۇم، مېنىڭ بېتىمگە خۇش كەپسىز!
+    <text x="0" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="1">
+      👋 HELLO WORLD, I'M
     </text>
-    <text x="0" y="55" fill="#ffffff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="800">
-      يېڭى ئەۋلاد يۇمشاق دېتال ئاچقۇچى
+    <text x="0" y="55" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="38" font-weight="800">
+      Software Developer
     </text>
-    <text x="0" y="100" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18">
-      🚀 زامانىۋى تېخنىكا • ئۈزلۈكسىز ئۆگىنىش • ئىجادىي كودلار
+    <text x="0" y="100" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="18">
+      🚀 Building Scalable Solutions • Continuous Learner
     </text>
 
-    <!-- ھەرىكەتچان نۇرلۇق سىزىقچە -->
+    <!-- Animated Glowing Progress Line -->
     <rect x="0" y="130" width="260" height="4" rx="2" fill="#0ea5e9" filter="url(#neonGlow)">
-      <animate attributeName="width" values="80;280;80" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="width" values="70;270;70" dur="4s" repeatCount="indefinite" />
     </rect>
   </g>
 
-  <!-- ئوڭ تەرەپتىكى خەرىتە ۋە گىرۋىكىدىكى ھەرىكەتچان نۇر -->
+  <!-- Right Side Map with Border Light Effect -->
   <g transform="translate(560, 15) scale(0.42)">
-    <!-- 1. خەرىتىنىڭ ئاساسىي كۆك تەگلىكى -->
+    <!-- Base Map Fill -->
     <use href="#mapPath" fill="url(#mapFill)" opacity="0.92" />
 
-    <!-- 2. خەرىتىنىڭ تۇراقلىق ئىنچىكە گىرۋەك سىزىقى -->
+    <!-- Static Map Outline -->
     <use href="#mapPath" fill="none" stroke="#bae6fd" stroke-width="4" opacity="0.5" />
 
-    <!-- 3. گىرۋەكنى بويلاپ ماڭىدىغان 1-نۇر دولقۇنى (ئاق-كۆك نۇر) -->
+    <!-- Animated Light Runner 1 -->
     <use href="#mapPath" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="320 2600" filter="url(#neonGlow)">
       <animate attributeName="stroke-dashoffset" from="2920" to="0" dur="5s" repeatCount="indefinite" />
     </use>
 
-    <!-- 4. گىرۋەكنى بويلاپ ماڭىدىغان 2-نۇر دولقۇنى (قارشى نۇقتىدىن چاقنايدىغان نۇر) -->
+    <!-- Animated Light Runner 2 -->
     <use href="#mapPath" fill="none" stroke="#00f2fe" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="220 2700" filter="url(#neonGlow)">
       <animate attributeName="stroke-dashoffset" from="1460" to="-1460" dur="5s" repeatCount="indefinite" />
     </use>
