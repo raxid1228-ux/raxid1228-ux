@@ -1,16 +1,17 @@
-<img width="1338" height="765" alt="image" src="https://github.com/user-attachments/assets/88dfb6a1-6721-4f33-b80f-716f28b287b7" /><div align="center">
+<div align="center">
 
   <!-- Animated Header with Glow Map -->
   <img src="./header.svg" width="100%" alt="Profile Header" />
 
   <br />
 
-<!-- Dynamic Badges -->
+  <!-- Dynamic Badges -->
   <p>
-    <img src="https://api.visitorbadge.io/api/visitors?path=raxid1228-ux&label=PROFILE%20VIEWS&labelColor=374151&countColor=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=raxid1228-ux&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/raxid1228-ux?label=Followers&color=2563eb&style=for-the-badge&logo=github" alt="Followers" />
     <img src="https://img.shields.io/badge/Status-Actively%20Coding-10b981?style=for-the-badge" alt="Status" />
   </p>
+
 </div>
 
 ---
@@ -33,16 +34,7 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=raxid1228-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f1d" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxid1228-ux&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0a0f1d" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raxid1228-ux&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
-</div>
 
 ---
 
