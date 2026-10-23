@@ -34,10 +34,28 @@
 
 ---
 
-
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+
+  <!-- GitHub -->
+  <a href="https://github.com/raxid1228-ux" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <!-- Email / Gmail -->
+  <a href="mailto:raxid1228@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <!-- Telegram -->
+  <a href="https://t.me/X_X1447" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+
 </div>
