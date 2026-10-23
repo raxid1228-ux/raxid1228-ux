@@ -5,7 +5,7 @@
 
   <br />
 
-      <!-- Dynamic Badges -->
+      
   <p>
     <img src="https://api.visitorbadge.io/api/visitors?path=raxid1228-ux&label=PROFILE%20VIEWS&labelColor=374151&countColor=0ea5e9&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/raxid1228-ux?label=Followers&color=2563eb&style=for-the-badge&logo=github" alt="Followers" />
