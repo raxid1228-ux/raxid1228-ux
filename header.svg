@@ -115,7 +115,7 @@
 
     <!-- Greeting -->
     <text x="0" y="75" fill="#38bdf8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="2">
-      ⚡ HELLO WORLD, I AM
+      ⚡ HELLO , I AM
     </text>
 
     <!-- Main Title -->
