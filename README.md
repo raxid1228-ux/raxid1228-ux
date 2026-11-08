@@ -51,7 +51,7 @@
   </a>
   &nbsp;
   <!-- Telegram -->
-  <a href="https://t.me/X_X1446" target="_blank">
+  <a href="https://t.me/X_X1447" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
